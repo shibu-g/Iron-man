@@ -1,0 +1,37 @@
+h1{
+    color: aqua;
+    position: null;
+    background-color: black;
+    size: 34px;
+}
+*:hover{
+    color: blue;
+ 
+}
+h2{
+     background-color: blues;
+     size: 20px;
+}
+*{
+    word-spacing: 5px;
+    margin-bottom: 7px;
+    size: 30px;
+   /* letter-spacing: 7px;*/
+   
+}
+.container{
+    display: flex;
+    padding: 3px;
+    height: 60px;
+    align-items: center;
+    background-color: green;
+    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+.item1{
+    order: 6;
+    justify-content: first baseline;
+    background-color: red;
+}
+body{
+    margin-bottom: 65px;
+}

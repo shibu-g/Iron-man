@@ -1,0 +1,107 @@
+.tony{
+    border-radius: 10000px;
+    height: 150px;
+    width: 150px;
+    padding: 18px;
+    margin-bottom: 0px;
+}
+.profile{
+  /*  padding: 30px;*/
+    background-color: gray;
+    width: 180px;
+    height: 700px;
+    border-radius: 35px;
+    float: left;
+}
+.name{
+    color: white;
+    padding: 9px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+   
+}
+h2{
+    margin-left: 10px;
+    padding-left: 15px;
+    color:rgb(rgb(56, 39, 39), green, blue);
+}
+
+.btn1{
+    color: antiquewhite;
+    background-color: black;
+   height: 40px;
+   width: 170px;
+   border-radius: 15px;
+   size: 20px;
+   margin-bottom: 10px;
+   margin-left: 5px;
+}
+.btn2{
+    color: antiquewhite;
+    background-color: black;
+   height: 40px;
+   width: 170px;
+   border-radius: 15px;
+   size: 20px;
+   margin-bottom: 10px;
+   margin-left: 5px;
+}
+.btn3{
+    color: antiquewhite;
+    background-color: black;
+   height: 40px;
+   width: 170px;
+   border-radius: 15px;
+   size: 20px;
+   margin-bottom: 10px;
+   margin-left: 5px;
+}
+.information{
+ background-color: gray;
+ height: 400px;
+ width: 800px;
+ float:right;
+ margin-left: 20px;
+ border-spacing: 12px;
+ border-radius: 35px;
+}
+.para{
+    height: 200px;
+    width: 350px;
+    position: absolute;
+    left: 220px;
+}
+table,th,td{
+    border: 1px solid black;
+}
+
+.container{
+    display: table;
+    align-items: flex-end;
+}
+.acts{
+    padding-left: 30px;
+    color: white;
+}
+.snap{
+    height: 300px;
+    width: 400px;
+    float: inline-end;
+    padding-top: 20px;
+  position: absolute;
+  right: 350px;
+ bottom: 200px;
+ border-radius: 35px;
+}
+table{
+    left: 42px;
+}
+.suits{
+    position: absolute;
+    top: 420px;
+    left: 210px;
+    height: 290px;
+    width: 800px;
+    border-radius: 35px;
+    background-color: gray;
+}

@@ -61,15 +61,16 @@ h2{
  height: 400px;
  width: 800px;
  float:right;
- margin-left: 20px;
  border-spacing: 12px;
  border-radius: 35px;
+ position: absolute;
+ left: 220px;
 }
 .para{
     height: 200px;
     width: 350px;
     position: absolute;
-    left: 220px;
+    left: 20px;
 }
 table,th,td{
     border: 1px solid black;
@@ -78,7 +79,13 @@ table,th,td{
 .container{
     display: table;
     align-items: flex-end;
+    background-color: black;
+    height: 700px;
+    width: 995px;
+    padding: 18px;
+    border-radius: 45px;
 }
+
 .acts{
     padding-left: 30px;
     color: white;
@@ -89,18 +96,19 @@ table,th,td{
     float: inline-end;
     padding-top: 20px;
   position: absolute;
-  right: 350px;
- bottom: 200px;
+  right: 20px;
+ bottom: 20px;
  border-radius: 35px;
 }
 table{
-    left: 42px;
+    position: absolute;
+    left: 45px;
 }
 .suits{
     position: absolute;
-    top: 420px;
-    left: 210px;
-    height: 290px;
+    top: 450px;
+    left: 215px;
+    height: 270px;
     width: 800px;
     border-radius: 35px;
     background-color: gray;
